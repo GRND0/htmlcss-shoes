@@ -26,6 +26,10 @@ html  {
     background-color: yellow ;
 }
 
+#giallo .descrizione {
+    color: green ;
+}
+
 .prodotto {
     position: absolute ;
     top: 50% ;
@@ -45,3 +49,4 @@ html  {
     font-size: 3em ;
     font-weight: bolder ;
 }
+
