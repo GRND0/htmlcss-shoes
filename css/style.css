@@ -1,3 +1,5 @@
+/*COMMON*/
+
 * {
     margin: 0 ;
     padding: 0 ;
@@ -8,6 +10,8 @@ html  {
     font-family: 'Rubik Mono One', sans-serif;
     scroll-behavior: smooth ;
 }
+
+/*REGOLE SEZIONI*/ 
 
 .contenitore {
     position: relative ;
