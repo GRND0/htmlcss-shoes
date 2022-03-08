@@ -6,6 +6,7 @@
 
 html  { 
     font-family: 'Rubik Mono One', sans-serif;
+    scroll-behavior: smooth ;
 }
 
 .contenitore {
@@ -28,6 +29,26 @@ html  {
 
 #giallo .descrizione {
     color: green ;
+}
+
+nav {
+    position: fixed ;
+    top: 0 ;
+    right: 0 ;
+    z-index: 1 ;
+}
+
+ul {
+    list-style: none ;
+}
+
+li {
+    display: inline ;
+    padding: 0 5px ;
+}
+
+li a {
+    text-decoration: none ;
 }
 
 .prodotto {
